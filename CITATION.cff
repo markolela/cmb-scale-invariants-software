@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "cmb-scale-invariants"
+type: software
+authors:
+  - family-names: "Lela"
+    given-names: "Marko"
+    orcid: "https://orcid.org/0009-0008-0768-5184"
+license: "Apache-2.0"
+version: "paper-v1"
+date-released: "2026-03-03"
+repository-code: "https://github.com/markolela/cmb-scale-invariants-software"
+keywords:
+  - CMB
+  - Planck 2018
+  - surrogate data
+  - phase randomization
+  - reproducibility
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Lela"
+      given-names: "Marko"
+      orcid: "https://orcid.org/0009-0008-0768-5184"
+  title: "Robust Separation from Patch-wise Null Surrogates in Planck 2018 CMB Patches: An Encoding-Based Diagnostic"
+  year: 2026
+  notes: "Replace with arXiv identifier and DOI once assigned."
