@@ -4,7 +4,8 @@ Software for the paper:
 "Robust Separation from Patch-wise Null Surrogates in Planck 2018 CMB Patches: An Encoding-Based Diagnostic".
 
 ## Software DOI
-https://doi.org/10.5281/zenodo.18855045
+Concept DOI (all versions): https://doi.org/10.5281/zenodo.18855045
+Version DOI (v1.0.2): https://doi.org/10.5281/zenodo.18855133
 
 ## What this repository contains
 This repository contains the Python analysis pipeline and helper scripts used to generate the paper's numerical results.
