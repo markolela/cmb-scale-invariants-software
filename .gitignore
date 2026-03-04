@@ -12,3 +12,6 @@ data/
 
 # editor
 .vs/
+
+# editor artifacts
+.vs/
